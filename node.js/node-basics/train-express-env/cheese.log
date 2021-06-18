@@ -1,0 +1,13 @@
+[2021-06-13T19:23:44.581] [DEBUG] cheese - [Object: null prototype] { name: 'jiege ', age: '18' }
+[2021-06-14T01:14:51.293] [DEBUG] cheese - [Object: null prototype] {
+  province: '上海',
+  city: '上海',
+  district: '宝山区',
+  address: '同济支路199号智慧七立方3号楼2-4层',
+  latitude: '43',
+  longitude: '160',
+  message: '求购一条小鱼',
+  contact: '13666666',
+  type: 'sell',
+  time: '1571217561'
+}
