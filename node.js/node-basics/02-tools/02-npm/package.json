@@ -1,0 +1,26 @@
+{
+  "name": "02-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-require-jquery-globla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp -v",
+    "start": "node ./01-require-jquery-global.js",
+    "build": "echo $npm_package_config_aa"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jquery": "^3.6.0",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "config": {
+    "aa": "杰哥"
+  }
+}
